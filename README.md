@@ -33,7 +33,7 @@ To get started with the Mini Loan Management System, follow these steps:
     cd MiniLoanapp
     cd web
     npm install
-    npm start
+    npm run dev
     ```
     
     
