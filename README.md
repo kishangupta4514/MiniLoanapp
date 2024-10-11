@@ -21,27 +21,30 @@ To get started with the Mini Loan Management System, follow these steps:
 ### Installation
 
 1. Clone the repository:
-
+    ```
     bash
     git clone https://github.com/kishangupta4514/MiniLoanapp.git
+    ```
     
 
 2. Install the project dependencies & run Frontend:
-    
+    ```
     bash
     cd MiniLoanapp
     cd web
     npm install
     npm start
+    ```
     
     
 
 3. Install the project dependencies & run the server:
-    
+    ```
     bash
     cd server
     npm install
     npm start
+    ```
     
     
 
