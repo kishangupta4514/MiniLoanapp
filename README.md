@@ -4,6 +4,8 @@
 
 The Mini Loan Management System is a web application designed to manage loans, track repayments, and facilitate loan-related operations. This system is developed to streamline the process of lending and borrowing money, making it efficient for both lenders and borrowers.
 
+(Demonstration Vedio) : https://youtu.be/Xo6_743-7i4?si=5qRRg5WKHX6IecSi
+
 Key features include loan creation, repayment processing, user account management, and comprehensive reporting.
 
 ## Features
@@ -14,6 +16,17 @@ Key features include loan creation, repayment processing, user account managemen
 - Repayment Processing: Process repayments, including partial payments and marking loans as paid.
 - Payment Integration: Process payments using Stripe for secure transactions.
 
+
+## Some Glimpses
+
+![Image](/images/image1.png)
+
+![Image](/images/image2.png)
+
+![Image](/images/image3.png)
+
+![Image](/images/image4.png)
+
 ## Getting Started
 
 To get started with the Mini Loan Management System, follow these steps:
@@ -21,27 +34,30 @@ To get started with the Mini Loan Management System, follow these steps:
 ### Installation
 
 1. Clone the repository:
-
+    ```
     bash
     git clone https://github.com/kishangupta4514/MiniLoanapp.git
+    ```
     
 
 2. Install the project dependencies & run Frontend:
-    
+    ```
     bash
     cd MiniLoanapp
     cd web
     npm install
-    npm start
+    npm run dev
+    ```
     
     
 
 3. Install the project dependencies & run the server:
-    
+    ```
     bash
     cd server
     npm install
     npm start
+    ```
     
     
 
